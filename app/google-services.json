@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827010810810",
+    "project_id": "sample-158211"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827010810810:android:b071a28b7647ff14",
+        "android_client_info": {
+          "package_name": "com.example.shivam.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827010810810-9em6449nn4tqiep1qlm5n4npgq6dmdfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3p3svId42ep7MQ1uV-ilJE5Aaz6GTI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
